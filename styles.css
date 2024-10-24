@@ -14,11 +14,12 @@ header {
 
 .navbar-brand {
     font-weight: 500;
-    color: #61dafb;
+    color: #0fccee;
 }
 
 .navbar-brand img {
     margin-right: 10px;
+    border-radius: 7px;
 }
 
 .nav-link {
@@ -50,7 +51,6 @@ header {
 
 /* Hero Section */
 #hero {
-    background-image: url('2151255163.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -90,7 +90,7 @@ header {
 
 .hero-video {
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
